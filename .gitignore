@@ -457,3 +457,4 @@ appsettings.json
 client/ssl/server.crt
 client/ssl/server.csr
 client/ssl/server.key
+StudentAssets
